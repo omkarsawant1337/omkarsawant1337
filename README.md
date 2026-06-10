@@ -4,6 +4,11 @@
   <b>Penetration Tester | Cybersecurity Analyst | Security Researcher</b>
 </p>
 
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ---
 
 ## 🚀 About Me
