@@ -11,7 +11,8 @@
 ![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C176?style=for-the-badge)
 
 ---
 
