@@ -1,16 +1,152 @@
-## Hi there 👋
+# Hi, I'm Omkar Sawant 👋
 
-<!--
-**omkarsawant1337/omkarsawant1337** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>Penetration Tester | Cybersecurity Analyst | Security Researcher</b>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I am a Cybersecurity Professional specializing in Web Application and Network Penetration Testing. My focus is identifying vulnerabilities, assessing security risks, and helping build secure systems through practical offensive security methodologies.
+
+🔹 Web Application Security Testing  
+🔹 Network Penetration Testing  
+🔹 Vulnerability Assessment & Penetration Testing (VAPT)  
+🔹 Security Research & Exploitation  
+🔹 Technical Security Reporting  
+🔹 OWASP Top 10 & CWE Top 25
+
+---
+
+## 🎯 Current Focus
+
+- Advanced Web Application Pentesting
+- API Security Testing
+- Vulnerability Research
+- Active Directory Security
+- Network Security Assessments
+- Capture The Flag (CTF) Challenges
+- Real-world Pentesting Methodologies
+
+---
+
+## 🛠️ Security Tools
+
+### Reconnaissance & Enumeration
+- Nmap
+- Netdiscover
+- Gobuster
+- Dirsearch
+
+### Web Application Testing
+- Burp Suite
+- OWASP ZAP
+- Nikto
+
+### Exploitation
+- Metasploit Framework
+- SQLMap
+- Hydra
+
+### Analysis & Monitoring
+- Wireshark
+- Nessus
+- Hashcat
+
+---
+
+## 💻 Technical Skills
+
+### Security
+- Web Application Penetration Testing
+- Network Penetration Testing
+- Vulnerability Assessment
+- Post Exploitation
+- Security Auditing
+- Risk Assessment (CVSS)
+
+### Frameworks & Standards
+- OWASP Top 10
+- CWE Top 25
+- PTES
+- Security Best Practices
+
+### Programming & Scripting
+- Python
+- Java
+- JavaScript
+- PHP
+- SQL
+- HTML
+- CSS
+- C
+
+### Operating Systems
+- Kali Linux
+- Ubuntu Linux
+- Windows
+
+---
+
+## 📚 Practice Platforms
+
+- PortSwigger Web Security Academy
+- TryHackMe
+- VulnHub
+- DVWA (Damn Vulnerable Web Application)
+
+---
+
+## 📂 Featured Repositories
+
+🔹 VulnHub Walkthroughs
+
+🔹 Web Application Pentesting Labs
+
+🔹 Network Pentesting Labs
+
+🔹 Security Research & PoCs
+
+🔹 Enumeration & Exploitation Notes
+
+🔹 Cybersecurity Learning Resources
+
+---
+
+## 🏆 Certifications
+
+- Advance Diploma In Information Security
+- Certified Web Penetration Tester
+- Certified Cyber Security & Ethical Hacker
+- Certified Network Penetration Tester
+- Exploit Writing
+- Network Security
+
+---
+
+## 📈 Areas of Interest
+
+- Web Security
+- Network Security
+- API Security
+- Vulnerability Research
+- Exploit Development
+- Red Teaming
+- Ethical Hacking
+
+---
+
+## 🤝 Connect With Me
+
+📧 Email: omkarsawant116@gmail.com
+
+💼 LinkedIn:
+www.linkedin.com/in/omkar-sawant-37bb5228b
+
+🐙 GitHub:
+https://github.com/omkarsawant1337
+
+---
+
+> "Security is not a product, but a process." – Bruce Schneier
