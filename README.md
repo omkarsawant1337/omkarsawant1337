@@ -1,162 +1,111 @@
-# Hi, I'm Omkar Sawant 👋
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00D4AA&center=true&width=600&lines=Omkar+Sawant;Penetration+Tester+%7C+Security+Researcher;Web+App+%26+Network+Pentesting" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <b>Penetration Tester | Cybersecurity Analyst | Security Researcher</b>
+  <img src="https://img.shields.io/badge/Focus-Web_App_Pentesting-1D9E75?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Focus-Network_Pentesting-185FA5?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Framework-OWASP_Top_10-D85A30?style=flat-square&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Platform-TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white&labelColor=0d1117" />
 </p>
 
 ---
 
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge)
-![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+## `whoami`
+
+```bash
+$ cat about.txt
+```
+
+Cybersecurity professional specialising in **web application** and **network penetration testing**.
+I identify vulnerabilities, assess security risks, and help build secure systems through practical
+offensive security methodologies — then translate findings into clear, actionable reports.
+
+- 🔍 Web Application & API Security Testing  
+- 🌐 Network Penetration Testing  
+- 📋 Vulnerability Assessment & Reporting (CVSS / CVSS)  
+- 📚 OWASP Top 10 · CWE Top 25 · PTES  
 
 ---
 
-## 🚀 About Me
+## `ls ./current-focus`
 
-I am a Cybersecurity Professional specializing in Web Application and Network Penetration Testing. My focus is identifying vulnerabilities, assessing security risks, and helping build secure systems through practical offensive security methodologies.
-
-🔹 Web Application Security Testing  
-🔹 Network Penetration Testing  
-🔹 Vulnerability Assessment & Penetration Testing (VAPT)  
-🔹 Security Research & Exploitation  
-🔹 Technical Security Reporting  
-🔹 OWASP Top 10 & CWE Top 25
-
----
-
-## 🎯 Current Focus
-
-- Advanced Web Application Pentesting
-- API Security Testing
-- Vulnerability Research
-- Active Directory Security
-- Network Security Assessments
-- Capture The Flag (CTF) Challenges
-- Real-world Pentesting Methodologies
+```
+├── Advanced Web Application Pentesting
+├── API Security Testing
+├── Active Directory Security
+├── Vulnerability Research & Exploit Development
+├── Network Security Assessments
+└── CTF Challenges (PortSwigger / TryHackMe / VulnHub)
+```
 
 ---
 
-## 🛠️ Security Tools
+## `cat toolkit.conf`
 
-### Reconnaissance & Enumeration
-- Nmap
-- Netdiscover
-- Gobuster
-- Dirsearch
-
-### Web Application Testing
-- Burp Suite
-- OWASP ZAP
-- Nikto
-
-### Exploitation
-- Metasploit Framework
-- SQLMap
-- Hydra
-
-### Analysis & Monitoring
-- Wireshark
-- Nessus
-- Hashcat
+| Category | Tools |
+|---|---|
+| **Recon & Enumeration** | Nmap · Gobuster · Dirsearch · Netdiscover |
+| **Web Application Testing** | Burp Suite · OWASP ZAP · Nikto |
+| **Exploitation** | Metasploit · SQLMap · Hydra |
+| **Analysis & Monitoring** | Wireshark · Nessus · Hashcat |
 
 ---
 
-## 💻 Technical Skills
+## `ls ./skills`
 
-### Security
-- Web Application Penetration Testing
-- Network Penetration Testing
-- Vulnerability Assessment
-- Post Exploitation
-- Security Auditing
-- Risk Assessment (CVSS)
+**Security**
+`Web App Pentesting` `Network Pentesting` `VAPT` `Post Exploitation` `Risk Assessment` `Security Auditing`
 
-### Frameworks & Standards
-- OWASP Top 10
-- CWE Top 25
-- PTES
-- Security Best Practices
+**Languages & Scripting**
+`Python` `JavaScript` `PHP` `SQL` `Java` `C` `HTML/CSS`
 
-### Programming & Scripting
-- Python
-- Java
-- JavaScript
-- PHP
-- SQL
-- HTML
-- CSS
-- C
-
-### Operating Systems
-- Kali Linux
-- Ubuntu Linux
-- Windows
+**Operating Systems**
+`Kali Linux` `Ubuntu` `Windows`
 
 ---
 
-## 📚 Practice Platforms
+## `cat certifications.txt`
 
-- PortSwigger Web Security Academy
-- TryHackMe
-- VulnHub
-- DVWA (Damn Vulnerable Web Application)
-
----
-
-## 📂 Featured Repositories
-
-🔹 VulnHub Walkthroughs
-
-🔹 Web Application Pentesting Labs
-
-🔹 Network Pentesting Labs
-
-🔹 Security Research & PoCs
-
-🔹 Enumeration & Exploitation Notes
-
-🔹 Cybersecurity Learning Resources
+```
+[✔] Advance Diploma in Information Security
+[✔] Certified Web Penetration Tester
+[✔] Certified Cyber Security & Ethical Hacker
+[✔] Certified Network Penetration Tester
+[✔] Exploit Writing
+[✔] Network Security
+```
 
 ---
 
-## 🏆 Certifications
+## `ls ./repositories`
 
-- Advance Diploma In Information Security
-- Certified Web Penetration Tester
-- Certified Cyber Security & Ethical Hacker
-- Certified Network Penetration Tester
-- Exploit Writing
-- Network Security
-
----
-
-## 📈 Areas of Interest
-
-- Web Security
-- Network Security
-- API Security
-- Vulnerability Research
-- Exploit Development
-- Red Teaming
-- Ethical Hacking
+| Repo | Description |
+|---|---|
+| 📂 VulnHub Walkthroughs | Step-by-step machine breakdowns |
+| 📂 Web App Pentesting Labs | OWASP-focused lab notes & payloads |
+| 📂 Network Pentesting Labs | Recon to exploitation methodology |
+| 📂 Security Research & PoCs | Proof-of-concept write-ups |
+| 📂 Enumeration & Exploitation Notes | Personal cheat sheets & references |
 
 ---
 
-## 🤝 Connect With Me
+## `./connect.sh`
 
-📧 Email: omkarsawant116@gmail.com
-
-💼 LinkedIn:
-www.linkedin.com/in/omkar-sawant-37bb5228b
-
-🐙 GitHub:
-https://github.com/omkarsawant1337
+<p>
+  <a href="mailto:omkarsawant116@gmail.com">
+    <img src="https://img.shields.io/badge/Email-omkarsawant116%40gmail.com-1D9E75?style=flat-square&logo=gmail&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://www.linkedin.com/in/omkar-sawant-37bb5228b">
+    <img src="https://img.shields.io/badge/LinkedIn-Omkar_Sawant-185FA5?style=flat-square&logo=linkedin&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/omkarsawant1337">
+    <img src="https://img.shields.io/badge/GitHub-omkarsawant1337-444441?style=flat-square&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
 
 ---
 
-> "Security is not a product, but a process." – Bruce Schneier
+<p align="center">
+  <sub><i>"Security is not a product, but a process." — Bruce Schneier</i></sub>
+</p>
