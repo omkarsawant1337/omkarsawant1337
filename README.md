@@ -4,12 +4,18 @@
 
 ### `penetration-tester · security-researcher · cybersecurity-analyst`
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=1D9E75&center=true&width=600&height=30&lines=Web+App+Security+%7C+Burp+Suite+%7C+OWASP+Top+10;Network+Pentesting+%7C+Nmap+%7C+Metasploit;VAPT+%7C+Exploit+Dev+%7C+CTF+Player;TryHackMe+%7C+VulnHub+%7C+PortSwigger)](https://git.io/typing-svg)
+
+</div>
+
 ![](https://img.shields.io/badge/Web_App_Security-1D9E75?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Network_Pentesting-185FA5?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/VAPT-D85A30?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/OWASP_Top_10-534AB7?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/Exploit_Dev-BA7517?style=flat-square&logoColor=white)
-
+![](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 </div>
 
 ---
