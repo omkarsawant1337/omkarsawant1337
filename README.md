@@ -2,8 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Omkar+Sawant&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
-### `penetration-tester · security-researcher · cybersecurity-analyst`
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=1D9E75&center=true&width=600&lines=Penetration+Tester;Security+Researcher;Cybersecurity+Analyst)](https://git.io/typing-svg)
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=1D9E75&center=true&width=600&height=30&lines=Web+App+Security+%7C+Burp+Suite+%7C+OWASP+Top+10;Network+Pentesting+%7C+Nmap+%7C+Metasploit;VAPT+%7C+Exploit+Dev+%7C+CTF+Player;TryHackMe+%7C+VulnHub+%7C+PortSwigger)](https://git.io/typing-svg)
