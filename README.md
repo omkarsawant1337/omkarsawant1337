@@ -20,13 +20,13 @@
 
 ---
 
-### `› about`
+### `› About`
 
 Cybersecurity professional specialising in **web application** and **network penetration testing**. I identify vulnerabilities, assess security risks, and help organisations build secure systems — translating findings into clear, actionable reports.
 
 ---
 
-### `› current focus`
+### `› Current focus`
 
 ```
 › Advanced Web Application Pentesting      › API Security Testing
@@ -36,7 +36,7 @@ Cybersecurity professional specialising in **web application** and **network pen
 
 ---
 
-### `› toolkit`
+### `› Toolkit`
 
 | Category | Tools |
 |---|---|
@@ -50,7 +50,7 @@ Cybersecurity professional specialising in **web application** and **network pen
 
 ---
 
-### `› certifications`
+### `› Certifications`
 
 ```
 [✔] Advance Diploma in Information Security
@@ -62,7 +62,7 @@ Cybersecurity professional specialising in **web application** and **network pen
 
 ---
 
-### `› featured repos`
+### `› Featured repos`
 
 | | Repository | Description |
 |---|---|---|
@@ -74,7 +74,7 @@ Cybersecurity professional specialising in **web application** and **network pen
 
 ---
 
-### `› connect`
+### `› Connect`
 
 <a href="mailto:omkarsawant116@gmail.com"><img src="https://img.shields.io/badge/Gmail-omkarsawant116-1D9E75?style=flat-square&logo=gmail&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/omkar-sawant-37bb5228b"><img src="https://img.shields.io/badge/LinkedIn-Omkar_Sawant-185FA5?style=flat-square&logo=linkedin&logoColor=white"/></a>
