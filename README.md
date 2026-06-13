@@ -14,7 +14,6 @@
 ![](https://img.shields.io/badge/Network_Pentesting-185FA5?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/VAPT-D85A30?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/OWASP_Top_10-534AB7?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Exploit_Dev-BA7517?style=flat-square&logoColor=white)
 ![](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
 </div>
 
