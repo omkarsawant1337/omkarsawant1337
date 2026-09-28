@@ -1,90 +1,182 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header&text=Omkar+Sawant&fontSize=36&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0F6E56,100:1D9E75&height=220&section=header&text=OMKAR%20SAWANT&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Penetration%20Tester%20%C2%B7%20Security%20Researcher%20%C2%B7%20Ethical%20Hacker&descSize=17&descAlignY=60&animation=fadeIn" width="100%"/>
 
-<h3 align="center">
-  <samp>🔐 Penetration Tester &nbsp;·&nbsp; 🔎 Security Researcher &nbsp;·&nbsp; 🛡️ Cybersecurity Analyst</samp>
-</h3>
+<a href="https://omkarsawant1337.github.io/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Omkar+Sawant;Web+App+Security+%7C+Burp+Suite+%7C+OWASP+Top+10;Network+Pentesting+%7C+Nmap+%7C+Metasploit;VAPT+%7C+Exploit+Dev+%7C+CTF+Player;Breaking+things+to+make+them+stronger+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://omkarsawant1337.github.io/"><img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-1D9E75?style=for-the-badge&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omkar-sawant-37bb5228b"><img src="https://img.shields.io/badge/LinkedIn-185FA5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:omkarsawant116@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D85A30?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=omkarsawant1337&label=Profile%20Views&color=1D9E75&style=flat-square)
+![Followers](https://img.shields.io/github/followers/omkarsawant1337?label=Followers&style=flat-square&color=185FA5&logo=github)
+![Repos](https://img.shields.io/badge/Focus-VAPT-D85A30?style=flat-square)
+![OWASP](https://img.shields.io/badge/OWASP-Top_10-534AB7?style=flat-square)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-Active-212C42?style=flat-square&logo=tryhackme&logoColor=white)
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 👨‍💻 &nbsp;About Me
+
+```bash
+omkar@kali:~$ cat about.txt
+```
+
+> 🔐 Cybersecurity professional specialising in **web application** and **network penetration testing**.
+> 🔎 I find vulnerabilities, assess risk, and turn findings into **clear, actionable reports**.
+> 🛡️ Helping organisations build secure systems, one exploit at a time.
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🎯 &nbsp;Current Focus
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+🕷️ **Advanced Web Application Pentesting**  
+🔌 **API Security Testing**  
+🏰 **Active Directory Attacks**
+
+</td>
+<td width="50%" valign="top">
+
+🐛 **Vulnerability Research**  
+🌐 **Network Security Assessments**  
+🚩 **CTF Challenges**
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🧰 &nbsp;Arsenal
+
+**🔍 Recon**  
+![Nmap](https://img.shields.io/badge/Nmap-0E83CD?style=for-the-badge&logo=nmap&logoColor=white)
+![Gobuster](https://img.shields.io/badge/Gobuster-1D9E75?style=for-the-badge)
+![Dirsearch](https://img.shields.io/badge/Dirsearch-534AB7?style=for-the-badge)
+![Netdiscover](https://img.shields.io/badge/Netdiscover-444441?style=for-the-badge)
+
+**🕸️ Web Testing**  
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=portswigger&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logo=owasp&logoColor=white)
+![Nikto](https://img.shields.io/badge/Nikto-D85A30?style=for-the-badge)
+![SQLMap](https://img.shields.io/badge/SQLMap-185FA5?style=for-the-badge)
+
+**💥 Exploitation**  
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Hydra](https://img.shields.io/badge/Hydra-B71C1C?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-1D9E75?style=for-the-badge)
+
+**📡 Analysis**  
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C1DE?style=for-the-badge&logo=tenable&logoColor=white)
+
+**💻 Languages & Platforms**  
+
+<img src="https://skillicons.dev/icons?i=py,js,php,mysql,java,c,html,css,bash,linux,ubuntu,windows,git,github&perline=14" />
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 &nbsp;Certifications
+
+<table>
+<tr>
+<td>🎓 <b>Advance Diploma in Information Security</b></td>
+<td>🕷️ <b>Certified Web Penetration Tester</b></td>
+</tr>
+<tr>
+<td>🛡️ <b>Certified Cyber Security & Ethical Hacker</b></td>
+<td>🌐 <b>Certified Network Penetration Tester</b></td>
+</tr>
+<tr>
+<td colspan="2" align="center">💣 <b>Exploit Writing</b> &nbsp;·&nbsp; 🔒 <b>Network Security</b></td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🚀 &nbsp;Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📚 [Cybersecurity-Knowledge-Base](https://github.com/omkarsawant1337/Cybersecurity-Knowledge-Base)
+Structured knowledge base covering ethical hacking, VAPT, web security, networking, Linux, cryptography, malware analysis and cheat sheets.  
+![](https://img.shields.io/badge/Notes-Knowledge_Base-1D9E75?style=flat-square) ![](https://img.shields.io/badge/License-MIT-444441?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Smartscan](https://github.com/omkarsawant1337/Smartscan)
+AI-powered port scanner with CVE lookup, built on Groq LLaMA 3.3 70B, Nmap and the NIST NVD database.  
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/AI-Groq_LLaMA-D85A30?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔑 [Hashid-Tool](https://github.com/omkarsawant1337/Hashid-Tool)
+Kali Linux hash type identifier built for pentesting and CTFs.  
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/License-MIT-444441?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 📁 [VulnHub-Walkthroughs](https://github.com/omkarsawant1337/VulnHub-Walkthroughs)
+Machine walkthroughs, pentesting methodology and learning notes, from recon to root.  
+![](https://img.shields.io/badge/VulnHub-Writeups-534AB7?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<a href="https://omkarsawant1337.github.io/"><img src="https://img.shields.io/badge/More_on_my_Portfolio_→-1D9E75?style=for-the-badge"/></a>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 📊 &nbsp;GitHub Stats
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=800&color=1D9E75&center=true&width=600&height=30&lines=Web+App+Security+%7C+Burp+Suite+%7C+OWASP+Top+10;Network+Pentesting+%7C+Nmap+%7C+Metasploit;VAPT+%7C+Exploit+Dev+%7C+CTF+Player;TryHackMe+%7C+VulnHub+%7C+PortSwigger)](https://git.io/typing-svg)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=omkarsawant1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsawant1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsawant1337&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=D85A30&currStreakLabel=1D9E75" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=omkarsawant1337&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
 
 </div>
 
-![](https://img.shields.io/badge/Web_App_Security-1D9E75?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/Network_Pentesting-185FA5?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/VAPT-D85A30?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/OWASP_Top_10-534AB7?style=flat-square&logoColor=white)
-![](https://img.shields.io/badge/TryHackMe-212C42?style=flat-square&logo=tryhackme&logoColor=white)
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
----
-
-### `› About`
-
-Cybersecurity professional specialising in **web application** and **network penetration testing**. I identify vulnerabilities, assess security risks, and help organisations build secure systems — translating findings into clear, actionable reports.
-
----
-
-### `› Current focus`
-
-```
-› Advanced Web Application Pentesting      › API Security Testing
-› Active Directory Attacks                 › Vulnerability Research  
-› Network Security Assessments             › CTF Challenges
-```
-
----
-
-### `› Toolkit`
-
-| Category | Tools |
-|---|---|
-| `RECON` | Nmap · Gobuster · Dirsearch · Netdiscover |
-| `WEB TESTING` | Burp Suite · OWASP ZAP · Nikto · SQLMap |
-| `EXPLOITATION` | Metasploit · Hydra · Hashcat |
-| `ANALYSIS` | Wireshark · Nessus |
-
-**Languages:** `Python` `JavaScript` `PHP` `SQL` `Java` `C` `HTML/CSS`  
-**OS:** `Kali Linux` `Ubuntu` `Windows`
-
----
-
-### `› Certifications`
-
-```
-[✔] Advance Diploma in Information Security
-[✔] Certified Web Penetration Tester
-[✔] Certified Cyber Security & Ethical Hacker
-[✔] Certified Network Penetration Tester
-[✔] Exploit Writing  ·  Network Security
-```
-
----
-
-### `› Featured repos`
-
-| | Repository | Description |
-|---|---|---|
-| 📁 | VulnHub Walkthroughs | Step-by-step machine breakdowns |
-| 🐛 | Web App Pentesting Labs | OWASP-focused notes & payloads |
-| 🌐 | Network Pentesting Labs | Recon to post-exploitation methodology |
-| 🔬 | Security Research & PoCs | Vulnerability proof-of-concepts |
-| 📝 | Enumeration & Exploitation Notes | Personal cheat sheets & references |
-
----
-
-### `› Connect`
-
-<a href="https://omkarsawant1337.github.io/"><img src="https://img.shields.io/badge/Portfolio-omkarsawant1337.github.io-1D9E75?style=flat-square&logo=githubpages&logoColor=white"/></a>
-<a href="mailto:omkarsawant116@gmail.com"><img src="https://img.shields.io/badge/Gmail-omkarsawant116-D85A30?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/omkar-sawant-vapt"><img src="https://img.shields.io/badge/LinkedIn-Omkar_Sawant-185FA5?style=flat-square&logo=linkedin&logoColor=white"/></a>
-<a href="https://github.com/omkarsawant1337"><img src="https://img.shields.io/badge/GitHub-omkarsawant1337-444441?style=flat-square&logo=github&logoColor=white"/></a>
-
----
+## 🤝 &nbsp;Let's Connect
 
 <div align="center">
-  <sub><i>"Security is not a product, but a process." — Bruce Schneier</i></sub>
+
+<a href="https://omkarsawant1337.github.io/"><img src="https://img.shields.io/badge/Portfolio-omkarsawant1337.github.io-1D9E75?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+<a href="mailto:omkarsawant116@gmail.com"><img src="https://img.shields.io/badge/Gmail-omkarsawant116-D85A30?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/omkar-sawant-37bb5228b"><img src="https://img.shields.io/badge/LinkedIn-Omkar_Sawant-185FA5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/omkarsawant1337"><img src="https://img.shields.io/badge/GitHub-omkarsawant1337-444441?style=for-the-badge&logo=github&logoColor=white"/></a>
+
+<br/><br/>
+
+<i>"Security is not a product, but a process." — Bruce Schneier</i>
+
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1D9E75,100:0D1117&height=100&section=footer" width="100%"/>
