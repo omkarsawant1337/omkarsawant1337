@@ -160,13 +160,6 @@ Machine walkthroughs, pentesting methodology and learning notes, from recon to r
 ![Followers](https://img.shields.io/github/followers/omkarsawant1337?style=for-the-badge&color=185FA5&logo=github)
 ![Stars](https://img.shields.io/github/stars/omkarsawant1337/Cybersecurity-Knowledge-Base?style=for-the-badge&color=1D9E75&logo=github&label=KB%20Stars)
 
-#### 🕒 Recently Updated
-
-<table>
-<tr><td align="right"><a href="https://github.com/omkarsawant1337/Hashid-Tool"><b>Hashid-Tool</b></a></td><td align="left"><img src="https://img.shields.io/github/last-commit/omkarsawant1337/Hashid-Tool?style=flat-square&label=last%20commit&color=1D9E75"/></td></tr>
-<tr><td align="right"><a href="https://github.com/omkarsawant1337/Smartscan"><b>Smartscan</b></a></td><td align="left"><img src="https://img.shields.io/github/last-commit/omkarsawant1337/Smartscan?style=flat-square&label=last%20commit&color=1D9E75"/></td></tr>
-</table>
-
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
