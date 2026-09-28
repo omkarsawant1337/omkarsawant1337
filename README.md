@@ -6,12 +6,13 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Omkar+Sawant;Web+App+Security+%7C+Burp+Suite+%7C+OWASP+Top+10;Network+Pentesting+%7C+Nmap+%7C+Metasploit;VAPT+%7C+Exploit+Dev+%7C+CTF+Player;Breaking+things+to+make+them+stronger+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
+<br/>
 
 <a href="https://omkarsawant1337.github.io/"><img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-1D9E75?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/omkar-sawant-37bb5228b"><img src="https://img.shields.io/badge/LinkedIn-185FA5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:omkarsawant116@gmail.com"><img src="https://img.shields.io/badge/Email_Me-D85A30?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-<br/><br/>
+<br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=omkarsawant1337&label=Profile%20Views&color=1D9E75&style=flat-square)
 ![Followers](https://img.shields.io/github/followers/omkarsawant1337?label=Followers&style=flat-square&color=185FA5&logo=github)
