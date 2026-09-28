@@ -6,7 +6,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=3000&pause=800&color=1D9E75&center=true&vCenter=true&width=700&height=40&lines=%24+whoami+%E2%86%92+Omkar+Sawant;Web+App+Security+%7C+Burp+Suite+%7C+OWASP+Top+10;Network+Pentesting+%7C+Nmap+%7C+Metasploit;VAPT+%7C+Exploit+Dev+%7C+CTF+Player;Breaking+things+to+make+them+stronger+%F0%9F%9B%A1%EF%B8%8F" alt="Typing SVG" />
 </a>
 
-<br/>
 
 <a href="https://omkarsawant1337.github.io/"><img src="https://img.shields.io/badge/🌐_VISIT_MY_PORTFOLIO-1D9E75?style=for-the-badge&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/omkar-sawant-37bb5228b"><img src="https://img.shields.io/badge/LinkedIn-185FA5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -119,7 +118,7 @@ Structured knowledge base covering ethical hacking, VAPT, web security, networki
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [Smartscan](https://github.com/omkarsawant1337/Smartscan)
+### 🤖 [Smartscan v2.0](https://github.com/omkarsawant1337/Smartscan)
 AI-powered port scanner with CVE lookup, built on Groq LLaMA 3.3 70B, Nmap and the NIST NVD database.  
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![](https://img.shields.io/badge/AI-Groq_LLaMA-D85A30?style=flat-square)
 
