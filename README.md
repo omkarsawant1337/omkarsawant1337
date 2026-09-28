@@ -153,12 +153,13 @@ Machine walkthroughs, pentesting methodology and learning notes, from recon to r
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=omkarsawant1337&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omkarsawant1337&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1D9E75&text_color=c9d1d9" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=omkarsawant1337&theme=tokyonight&hide_border=true&background=0D1117&ring=1D9E75&fire=D85A30&currStreakLabel=1D9E75" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=omkarsawant1337&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" />
+<br/>
+
+![Followers](https://img.shields.io/github/followers/omkarsawant1337?style=for-the-badge&color=185FA5&logo=github)
+![Stars](https://img.shields.io/github/stars/omkarsawant1337/Cybersecurity-Knowledge-Base?style=for-the-badge&color=1D9E75&logo=github&label=KB%20Stars)
+![Last Commit](https://img.shields.io/github/last-commit/omkarsawant1337/Cybersecurity-Knowledge-Base?style=for-the-badge&color=D85A30)
 
 </div>
 
